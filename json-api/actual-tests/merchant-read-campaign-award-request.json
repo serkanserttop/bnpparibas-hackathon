@@ -1,4 +1,5 @@
 {
+	"action": "merchant-read-campaign-award-request",
 	"user_id": 234,
 	"user_name": "Nihat Kahveci",
 	"campaign_id": 234,

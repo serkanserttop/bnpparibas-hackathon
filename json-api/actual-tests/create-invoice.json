@@ -1,4 +1,5 @@
 {
+	"action": "pay-invoice",
 	"merchant_id": 123456,
 	"device_UUID": "123e4567e89b12d3a456426655440000",
 	"merchant_table_id": "4a",
