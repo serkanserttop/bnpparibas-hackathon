@@ -10,6 +10,16 @@
 			"id": 234,
 			"title": "5 Kahve Al, Bir Kahve Bedava",
 			"units": 2
+		},
+		{
+			"id": 424,
+			"title": "4 Çörek Al, 1 Çörek Bedava",
+			"units": 1
+		},
+		{
+			"id": 834,
+			"title": "10 Çay Al, Bir Çay Bedava",
+			"units": 1
 		}
 	]
 }
