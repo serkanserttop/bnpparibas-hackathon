@@ -7,6 +7,10 @@ var args = process.argv.slice(2);
 var FILEPATH = args[0];
 var async = require('async');
 
+if(!path.parse){
+	path.parse = require('path-parse');
+}
+
 function parseFiles(root){
 	var files = fs.readdirSync(root);
 	var funcs = [];
