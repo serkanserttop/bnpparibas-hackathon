@@ -1,12 +1,14 @@
 {
 	"action": "pay-invoice",
 	"merchant_id": 123456,
+	"merchant_name": "Nero Cafe",
 	"device_UUID": "123e4567e89b12d3a456426655440000",
 	"merchant_table_id": "4a",
 	"amount": 12.34,
 	"campaigns": [
 		{
-			"campaign_id": 234,
+			"id": 234,
+			"title": "5 Kahve Al, Bir Kahve Bedava",
 			"units": 2
 		}
 	]
