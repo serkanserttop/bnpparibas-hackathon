@@ -1,0 +1,12 @@
+{
+	merchant_id: "integer",
+	device_UUID: "uuid",
+	merchant_table_id: "string - for merchant's internal use",
+	amount: "float",
+	campaigns: [
+		{
+			campaign_id: "integer",
+			units: "integer"
+		}
+	]
+}

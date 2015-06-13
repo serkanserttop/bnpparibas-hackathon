@@ -1,0 +1,5 @@
+{
+	status: "approved | rejected",
+	campaign_title: "string - 5 Kahve Alana 1 Kahve Bedava",
+	units: "integer"
+}
