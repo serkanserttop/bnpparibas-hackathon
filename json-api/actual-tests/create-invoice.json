@@ -1,0 +1,12 @@
+{
+	"merchant_id": 123456,
+	"device_UUID": "123e4567e89b12d3a456426655440000",
+	"merchant_table_id": "4a",
+	"amount": 12.34,
+	"campaigns": [
+		{
+			"campaign_id": 234,
+			"units": 2
+		}
+	]
+}

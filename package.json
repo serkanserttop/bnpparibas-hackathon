@@ -1,0 +1,23 @@
+{
+  "name": "bnpparibas-hackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/serkanserttop/bnpparibas-hackathon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serkanserttop/bnpparibas-hackathon/issues"
+  },
+  "homepage": "https://github.com/serkanserttop/bnpparibas-hackathon",
+  "dependencies": {
+    "async": "^1.2.1",
+    "qr-image": "^3.1.0"
+  }
+}
